@@ -1,0 +1,17 @@
+{
+  "name": "import-data-to-sanity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sanity/client": "^3.3.0",
+    "@sanity/uuid": "^3.0.1",
+    "axios": "^0.26.1"
+  }
+}
