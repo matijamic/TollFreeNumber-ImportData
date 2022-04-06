@@ -12,6 +12,8 @@
   "dependencies": {
     "@sanity/client": "^3.3.0",
     "@sanity/uuid": "^3.0.1",
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "convert-excel-to-json": "^1.7.0",
+    "throttled-queue": "^2.1.2"
   }
 }
